@@ -1,6 +1,16 @@
 # Learning Journal
 ## May 12 2017
 
+//testing something else
+.markdown-body .task-list-item {
+  list-style-type: none !important;
+}
+
+.markdown-body .task-list-item input[type="checkbox"] {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
 I know this is long, so I **bolded** the important points
 
 Well, it's been a week! I actually feel like **I'm understanding about 75-80% of what's going on.** I feel like I get the conceptual idea of most things, but it's really just the loops that are still throwing me for a loop. Because the homework has been taking me a while to complete, **I haven't had time to re-look through things and do many corrections.** After doing the pair-programming assignment, I got to look at some code for some of the loops that _did_ work which was helpful - so I _should_ be able to do them. **Loops just still seem tricky to me for some reason.** I think I might have to do some practice problems with loops (while and for!) in my spare time.
