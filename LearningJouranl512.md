@@ -17,6 +17,13 @@ Well, it's been a week! I actually feel like **I'm understanding about 75-80% of
 <li><input checked="" disabled="" type="checkbox"> bar</li>
 </ul>
 
+<ul class="task-list">
+    <li class="task-list-item">
+        <input type="checkbox" disabled="" checked="">
+        item 1
+    </li>
+</ul>
+
 ### What we've learned this week that I feel like I have a pretty good grasp on:
 ---
 * [ x ] Terminal commands - I feel like I've really gotten better at this! It's becoming second nature.
