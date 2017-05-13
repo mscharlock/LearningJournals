@@ -13,7 +13,7 @@ Well, it's been a week! I actually feel like **I'm understanding about 75-80% of
 
 ### What we've learned this week that I feel like I have a pretty good grasp on:
 ---
--[x] Terminal commands - I feel like I've really gotten better at this! It's becoming second nature.
+-[ x ] Terminal commands - I feel like I've really gotten better at this! It's becoming second nature.
 -[x] I feel like Git is coming along but isn't quite natural yet. ACP is going good but branches/merge conflicts/copying individual files from one repo to another (is that even possible?) still is a little _hrmmmmm_
 -[x] HTML stuff - seems ok
 -[x] CSS - seems pretty straightforward
