@@ -1,6 +1,9 @@
 # Learning Journal
+𝕿𝖍𝖊 𝖋𝖆𝖓𝖈𝖎𝖊𝖘𝖙 𝖔𝖋 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝕵𝖔𝖚𝖗𝖓𝖆𝖑𝖘
 ## May 12 2017
+
 :smiley:
+
 I know this is long, so I **bolded** the important points
 
 Well, it's been a week! I actually feel like **I'm understanding about 75-80% of what's going on.** I feel like I get the conceptual idea of most things, but it's really just the loops that are still throwing me for a loop. Because the homework has been taking me a while to complete, **I haven't had time to re-look through things and do many corrections.** After doing the pair-programming assignment, I got to look at some code for some of the loops that _did_ work which was helpful - so I _should_ be able to do them. **Loops just still seem tricky to me for some reason.** I think I might have to do some practice problems with loops (while and for!) in my spare time.
@@ -10,19 +13,6 @@ Well, it's been a week! I actually feel like **I'm understanding about 75-80% of
 **But the week emotionally has been pretty up and down** - I felt pretty stupid to be the like the last person working in a pair on Thursday night. But, I actually learned a lot from the pair-programming thing so...then I felt pretty good because I'd actually cemented some of the things I was learning. ~~But I just felt like maybe everybody else who'd already gone home already got everything and I'm just a dunderhead.~~
 
 **I have honestly no idea how well I am doing in relation to the rest of the class.** I guess there's not a good way to tell who is doing well vs. not well since we all have different amounts of experience. Anyway, I just ride this wave of feeling totally confused, totally stupid and then I briefly get something and then a couple things I really get and then there's like one or two things I still have no idea what's going on with them and then we move on to a whole new set of stuff. I guess I feel a little stressed from the workload (because I feel the time-pressure - I feel like with enough time I can get most things).
-
-//Testing something
-<ul>
-<li><input disabled="" type="checkbox"> foo</li>
-<li><input checked="" disabled="" type="checkbox"> bar</li>
-</ul>
-
-<ul class="task-list">
-    <li class="task-list-item">
-        <input type="checkbox" disabled="" checked="">
-        item 1
-    </li>
-</ul>
 
 ### What we've learned this week that I feel like I have a pretty good grasp on:
 ---
