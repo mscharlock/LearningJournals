@@ -2,9 +2,6 @@
 ## May 12 2017
 
 :cyclone:𝕿𝖍𝖊 𝖋𝖆𝖓𝖈𝖎𝖊𝖘𝖙 𝖔𝖋 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝕵𝖔𝖚𝖗𝖓𝖆𝖑𝖘:cyclone:
-
-:smiley:
-
 I know this is long, so I **bolded** the important points
 
 Well, it's been a week! I actually feel like **I'm understanding about 75-80% of what's going on.** I feel like I get the conceptual idea of most things, but it's really just the loops that are still throwing me for a loop. Because the homework has been taking me a while to complete, **I haven't had time to re-look through things and do many corrections.** After doing the pair-programming assignment, I got to look at some code for some of the loops that _did_ work which was helpful - so I _should_ be able to do them. **Loops just still seem tricky to me for some reason.** I think I might have to do some practice problems with loops (while and for!) in my spare time.
@@ -26,16 +23,17 @@ Things I still need help with/need to review over the weekend:
 * [  ] EFFING LOOPS
 * [  ] Also I don't think we ever went over a do while, so I have to look that up
 
+:smiley:
 #### A visual representation of my week:
 _Explanations in alt text_
 
-![I learned something from a lecture! I totally get it!](https://media.giphy.com/media/tgCUdcdVo5zJm/giphy.gif)
-![WHAT EVEN IS A LAB](https://media.giphy.com/media/AL53WF1fOCXy8/giphy.gif)
-![Hey maybe something is working](https://media.giphy.com/media/xUPGcl3ijl0vAEyIDK/giphy.gif)
-![Nope, it's not working.](https://media.giphy.com/media/AD8PD02XV4Nb2/giphy.gif)
-![Engage determination](https://media.giphy.com/media/5K23wYRxmP8VG/giphy.gif)
-![Checking MDN and Google and W3Schools before asking a TA](https://media.giphy.com/media/3o7bu0mcp3ibhm0mvC/giphy.gif)
-![Brief moment of clarity](https://media.giphy.com/media/nW58eXwek1QOs/giphy.gif)
-![Submitting lab around midnight](https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif)
-![Lab the next day...wait, I remember some things!](https://media.giphy.com/media/sM4ALgO3D7F8k/giphy.gif)
-![New concepts](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![I learned something from a lecture! I totally get it!](https://media.giphy.com/media/tgCUdcdVo5zJm/giphy.gif)  
+![WHAT EVEN IS A LAB](https://media.giphy.com/media/AL53WF1fOCXy8/giphy.gif)  
+![Hey maybe something is working](https://media.giphy.com/media/xUPGcl3ijl0vAEyIDK/giphy.gif)  
+![Nope, it's not working.](https://media.giphy.com/media/AD8PD02XV4Nb2/giphy.gif)  
+![Engage determination](https://media.giphy.com/media/5K23wYRxmP8VG/giphy.gif)  
+![Checking MDN and Google and W3Schools before asking a TA](https://media.giphy.com/media/3o7bu0mcp3ibhm0mvC/giphy.gif)  
+![Brief moment of clarity](https://media.giphy.com/media/nW58eXwek1QOs/giphy.gif)  
+![Submitting lab around midnight](https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif)  
+![Lab the next day...wait, I remember some things!](https://media.giphy.com/media/sM4ALgO3D7F8k/giphy.gif)  
+![New concepts](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)  
