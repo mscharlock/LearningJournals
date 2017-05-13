@@ -11,6 +11,12 @@ Well, it's been a week! I actually feel like **I'm understanding about 75-80% of
 
 **I have honestly no idea how well I am doing in relation to the rest of the class.** I guess there's not a good way to tell who is doing well vs. not well since we all have different amounts of experience. Anyway, I just ride this wave of feeling totally confused, totally stupid and then I briefly get something and then a couple things I really get and then there's like one or two things I still have no idea what's going on with them and then we move on to a whole new set of stuff. I guess I feel a little stressed from the workload (because I feel the time-pressure - I feel like with enough time I can get most things).
 
+//Testing something
+<ul>
+<li><input disabled="" type="checkbox"> foo</li>
+<li><input checked="" disabled="" type="checkbox"> bar</li>
+</ul>
+
 ### What we've learned this week that I feel like I have a pretty good grasp on:
 ---
 * [ x ] Terminal commands - I feel like I've really gotten better at this! It's becoming second nature.
