@@ -51,13 +51,16 @@ Me: "Hey alien, this is a tree"
 Queen Arignflirngoairnar of Planet Qiabgaiobfroa: "What's a tree? I'm not familiar?"
 Me: "Well, it's got 10 branches, and 99 leaves, and it's bark is rough"
 
+```
 var tree = {
 branches: 10,
 leaves: 99,
 bark: 'rough'
 }
+```
 
 Another one for fun:
+```
 var jayZ = {
 wife: 'Beyonce',
 problems: 99,
@@ -65,6 +68,7 @@ girlproblems: 0,
 notaproblem: 'b*tch',
 hasGrammy: yes
 }
+```
 
 Things I need to review tomorrow:
 What the heck is going on with the nested functions in Friday's assignment? I keep looking at the code being like:
