@@ -2,6 +2,7 @@
 ## May 17 2017
 ---
 ![Aka Roadblocks](https://media.giphy.com/media/wdRi1lNnZ7wt2/giphy.gif?response_id=591d397610c98dc52b4cf85d)
+
 Just when you think everything is working a giant random roadblock comes out of nowhere and seems to just attack. I'm the pigeon feeder guy fending off the irritating roadblock. But on the other hand, some stuff is becoming slightly more clear:
 
 -I figured out how the table stuff actually works, instead of just c/p and not really getting it, so at least I feel like I have a better grip on the DOM stuff
