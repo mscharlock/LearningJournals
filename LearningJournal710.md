@@ -15,7 +15,9 @@ Pair programming went well and we actually stuck to the 15 minutes rule which wa
 I feel like I should know more about media queries from today than I ended up coming away from class knowing. Hopefully we will either go over them again or maybe we didn't do as deep a dive into them today as we will tomorrow? I will have to ask.
 
 Anyway, I feel _cautiously_ optimistic about this class.
-![Cautious Optimism At It's Finest](https://media.giphy.com/media/3o7btS8cQSNT8u1Ihq/giphy.gif)
+
+![Bring on the Week 2 Slump](https://media.giphy.com/media/3o7btS8cQSNT8u1Ihq/giphy.gif)
+
 I feel like I at least have some idea of what we will be learning (as opposed to 201, where it was just "HERE HAVE LOTS OF KNOWLEDGE" with no real map).
 
 I've started working on Code Wars. I don't know if it's that I am just rusty or I'm bad at logic or what but they seem really hard to me. I keep skipping different challenges because I can't think of how to solve them. I really dislike how their system performs tests to check if you got the solution. I end up working on them in repl because I usually just want to work incrementally and console.log as I go. It's kind of impossible to do that with the Code Wars system, so I guess I will just keep copying over to Repl.
