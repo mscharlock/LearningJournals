@@ -1,4 +1,4 @@
-#Learning Journal 
+# Learning Journal 
 ## July 11
 
 ![SRSLY RIGHT NOW DOG](http://media.giphy.com/media/hkfbh8qi6Roru/giphy.gif)
