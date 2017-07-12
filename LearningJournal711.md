@@ -2,6 +2,7 @@
 ## July 11
 
 ![SRSLY RIGHT NOW DOG](http://media.giphy.com/media/hkfbh8qi6Roru/giphy.gif)
+
 The dog I am sitting decided to eat an entire thing of K-cups. DOG. COME ON MAN. Anyhow, cleaning that up and making sure that the dog was ok took a bit longer than I wanted. I even left early today because I was kind of afraid based on how she was acting last night that she might do something stupidly anxious - and I was right, when I came home to coffee grounds and chewed k-cups everywhere. >_<
 
 Tomorrow morning, I'll be working with Brendan on doing the lab assignment. I hope it is enough time, it looks kind of complicated. I have been trying to figure it out on my own using the sample code, but I'm still a little confused about how to append everything to the DOM. I'm pretty sure the rest of it works, but it's hard to tell without it actually going somewhere on the page. 
