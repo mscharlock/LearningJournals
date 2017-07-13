@@ -1,5 +1,5 @@
 # Learning Journal
-## July 13
+## July 12
 ---
 Lab today was a little bit: 
 
