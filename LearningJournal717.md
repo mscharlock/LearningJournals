@@ -1,6 +1,5 @@
 # Learning Journal 
 ## July 17 2017 
---- 
 
 ![how it feels when I get the lab](https://media.giphy.com/media/xUPGcwvCuGhfgwNwjK/giphy.gif)
 
