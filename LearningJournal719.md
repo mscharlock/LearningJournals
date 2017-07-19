@@ -41,6 +41,7 @@ app.use(express.static('/public')); //make sure that express can get at your sta
 app.listen(PORT, function(){
   console.log(`'listening on port number: ${PORT}'`); //we are using the backtic notation to create a string/template literal and console log the port we are listening to. The literal stuff requires the ${} for particular stuff (objects??).//
 });
+```
 
 I'm excited to delve into the rest of this stuff this week. I haven't done any backend really yet and I am excited to learn it. Also, there have been a lot more moment of "YES IT IS WORKING!" this week - I don't know why that feeling never kicked in in 201 but it is pretty exciting when you tell it to do something and then as if by magic, it really does it! 
 Basically me when something works: 
