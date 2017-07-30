@@ -1,5 +1,8 @@
 # Learning Journal
 ## July 24 2017 
+
+![one more minute](https://media.giphy.com/media/HL1MeEq6XebEA/giphy.gif)
+
 I'm tired today but that is not really anything new. I'm excited about getting into the lab tomorrow AM because this page.js thing looks like it will resolve a lot of the confusingness of how to assign everything to different routes. 
 To be honest, I feel like I am a little behind or not keeping up with some of the stuff we learned last week. I tried to do the portfolio map and reduce stuff today and I'm still confused. I don't know why I find them so confusing! Conceptually, I get what they're doing - and I think my problem in the portfolio is that I'm not appending them properly. I need to have a look at it with a TA because I'm not entirely sure why stuff is not showing up on the page. 
 
